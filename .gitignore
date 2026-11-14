@@ -1,0 +1,26 @@
+# Data (too large for git)
+data/raw/
+data/processed/
+notebooks/Homework.ipynb
+data/interim/
+data/external/
+
+# Models
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE 
+.vscode/
+.idea/
+
+# OS 
+.DS_Store
+Thumbs.db    
+
+# Jupyter checkpoints
+.ipynb_checkpoints/   
